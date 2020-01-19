@@ -35,4 +35,7 @@ There are 2 two application need to build.
 2. Connect to Game via local IP
 3. Send *tranform* information to __game__ when interact with joystick.
 
+### Core
+Beside I use Google VR SDK to make a normal game to VR game (is basically I think in my native view), __UNet__ of unity is way to *send* and *recieve* package via local network (of course we must know IP each other to connect). The main game is considered like server and remote app like client which send information to server.
 
+##  The end & Thank you :)
