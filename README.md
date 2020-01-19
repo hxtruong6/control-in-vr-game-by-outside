@@ -1,6 +1,8 @@
 # Moving Character in VR Game by outside
 > Friday Team
 
+> Github: https://github.com/hxtruong/control-in-vr-game-by-outside
+
 This is a VR seminar in Game development and visualize subject.
 
 This project forcus directly on demo a game using VR technology. In details, we make a VR game has a character (is player) in a fantasy world which is allow controlled outside by player. The story of game is simply moving character in VR environment using a third party device, In this case, I remote by other mobile.
